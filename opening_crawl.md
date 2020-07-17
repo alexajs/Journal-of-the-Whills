@@ -14,6 +14,7 @@ ____    __    ____  ___     .______    ________.
 
 ```
 Episode IV: A New Hope
+Written by: George Lucas 
 
 It is a period of civil war. Rebel spaceships,
 striking from a hidden base, have won their first
