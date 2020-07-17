@@ -8,6 +8,7 @@
                                    |
                                    |    
 ```
+This is a change I made on GitHub.
 
 **[GREEDO]**  Going somewhere, Solo?
 
@@ -47,7 +48,6 @@ forward to killing you for a long
 time.
 
 **[HAN]**  Yes, I'll bet you have.
-```
 
 **[HAN]**  Sorry about the mess.
 
